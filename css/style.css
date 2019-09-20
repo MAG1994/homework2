@@ -1,0 +1,60 @@
+h1 {
+	color: white;
+	text-align: center;
+	font-family: lucida grande,sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+	background-color: black;
+}
+	
+#div
+id="red"
+
+div{
+	height:100px;
+	background-color:red;
+	padding: 30px"
+}
+
+h2 {
+	text-align:left;
+	font-size:32px;
+	font-family:lucida grande,sans-serif;
+	drop-shadow:4px 4px 2px black
+}
+
+footer {
+	color: white;
+	text-align: center;
+	font-family: lucida grande,sans-serif;
+}
+
+
+
+id="blue"
+div{
+	height:100px;
+	background-color:blue;
+	padding: 30px"
+}
+
+id="yellow"
+div{
+	height:100px;
+	background-color:yellow;
+	padding: 30px"
+}
+
+id="green" 
+div{
+	height:100px;
+	background-color:green;
+	padding: 30px"
+}
