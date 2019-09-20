@@ -1,0 +1,101 @@
+h1 {
+	color: white;
+	text-align: center;
+	font-family: lucida grande,sans-serif;
+	font-size: 64px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+}
+
+body {
+	background-color: black;
+}
+	
+
+div{
+	height:100px;
+	padding: 30px;
+}
+h2 {
+	color: white;
+	font-family: lucida grande,sans-serif;
+	font-size: 32px;
+	text-shadow: 4px 4px 2px black;
+}
+
+p {
+	color: white;
+	font-family: lucida grande,sans-serif;
+	font-size: 16px;
+	padding-top: 15px;
+}
+
+#red{
+background-color:red;
+text-align: right;
+}
+
+#blue{
+background-color:blue;
+text-align: left;
+}
+
+#yellow{
+background-color:yellow;
+text-align: right;
+}
+
+#yellow h2{
+	color: black;
+	text-shadow: 4px 4px 2px grey;
+}
+
+#yellow p{
+	color: black;
+}
+
+#green{
+background-color:green;
+text-align: left;
+}
+
+h2 {
+	font-size:32px;
+	font-family:lucida grande,sans-serif;
+	drop-shadow:4px 4px 2px black
+}
+
+footer {
+	color: white;
+	text-align: center;
+	font-family: lucida grande,sans-serif;
+	padding-bottom: 15px;
+}
+
+
+
+id="blue"
+div{
+	height:100px;
+	background-color:blue;
+	padding: 30px;
+}
+
+id="yellow"
+div{
+	height:100px;
+	background-color:yellow;
+	padding: 30px;
+}
+
+id="green" 
+div{
+	height:100px;
+	background-color:green;
+	padding: 30px;
+}
